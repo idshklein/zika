@@ -1,0 +1,4 @@
+{
+    "r.plot.useHttpgd": true,
+    "r.plot.httpgdPort": 1234
+    } // Uncomment and set a specific port if needed
